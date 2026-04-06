@@ -39,8 +39,10 @@ DOI: https://doi.org/10.21203/rs.3.rs-9312149/v1
 
 ## How to Run
 
-1. Install required libraries:
-
+1. Install required libraries(bash):
+ - pip install numpy
+ - pip install matplotlib
+ - pip install sympy
 2. Run the program:
  -python ode_solver.py
 
@@ -60,9 +62,8 @@ Output:
 - Graph visualization
 
 ## Visualization
-
 - output.png
-- plot_ode_solver
+- plot_ode_solver.png
 
 ## Author
 Md Asaduzzaman
